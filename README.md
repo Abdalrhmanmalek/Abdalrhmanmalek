@@ -13,7 +13,7 @@ Junior AI & Machine Learning Engineer with hands-on experience building end-to-e
 
 ---
 
-### What I Bring to the Table
+### What I Able  to DO
 
 - **End-to-End AI Systems:** I design and build complete AI pipelines — from IoT sensor data and computer vision inputs through deep learning models (CNN, LSTM) to real-time, actionable outputs.
 - **Cloud-Native ML Deployment:** I deploy models and services on AWS (Lambda, ECR, S3, DynamoDB, SQS, IoT Core) using Docker, so systems run reliably from prototype to production.
@@ -77,17 +77,6 @@ Junior AI & Machine Learning Engineer with hands-on experience building end-to-e
 
 ---
 
-### Certifications & Training
-
-- AI Microsoft Hackathon Champion — Alexandria University (Mar 2026)
-- Exploring SAP Analytics Cloud (May 2026)
-- CIB Summer Internship (Jul 2025)
-- AI and Machine Learning Foundations — Sprints (Aug 2025)
-- Scikit-learn & TensorFlow — DataCamp (Jun 2025)
-- Data Manipulation with pandas — DataCamp (Jun 2025)
-- Innovation and Entrepreneurship — Inno Egypt (Jan 2025)
-
----
 
 ### Let's Connect
 
