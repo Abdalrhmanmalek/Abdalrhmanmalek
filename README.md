@@ -2,18 +2,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 Junior AI & Machine Learning Engineer with hands-on experience building end-to-end AI systems using Python, deep learning, AWS Cloud, and IoT. I focus on deploying scalable ML pipelines and real-time, data-driven applications — with an MIS foundation that keeps every model grounded in a real business problem.
 
-- 🎓 Graduating Alexandria University (Faculty of Business, MIS) — July 2026
-- 🏆 Finalist, Graduation Project Copilot Competition, Alexandria University
-- 🏆 AI Microsoft Hackathon Champion — Alexandria University, March 2026
-- 📍 Alexandria, Egypt
+- Graduating Alexandria University (Faculty of Business, MIS) — July 2026
+- Finalist, Graduation Project Copilot Competition, Alexandria University
+- AI Microsoft Hackathon Champion — Alexandria University, March 2026
+- Alexandria, Egypt
 
 ---
 
-### 🌱 Featured: Enviro Smart — IoT & AI System (Graduation Project)
+### Featured: Enviro Smart — IoT & AI System (Graduation Project)
 
 Role: AI & Cloud Architect / IoT / Team Leader
 
@@ -26,7 +26,7 @@ An end-to-end IoT system bridging physical hardware with deep learning on the cl
 
 ---
 
-### 💼 Experience
+### Experience
 
 **NTI Freelancer Data Analysis — Creativa** (Aug 2025)
 End-to-end data analysis workflow with SQL, Python, R — built Power BI dashboards that surfaced 12% revenue leakage, plus Power Query/Excel BI reporting across multiple markets.
@@ -36,20 +36,23 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 
 ---
 
-### 📌 Projects
+### Projects
 
-- 🔊 [Mine and Rock Sonar Prediction](https://github.com/Abdalrhmanmalek/sonar-signal) — Scikit-learn classifier for sonar signal detection; feature engineering with Pandas/NumPy; **88% F1-score**.
-- ✋ Hand Gesture Control System — Real-time gesture recognition with OpenCV at **95% accuracy**, with optimized feature extraction and tracking.
-- 🩺 [Diabetics Prediction](https://github.com/Abdalrhmanmalek/Diabetics-prediction) — ML model predicting diabetes risk from patient data.
-- 🚲 [Bike Store Analysis](https://github.com/Abdalrhmanmalek/Bike-store-) — MySQL database → data cleaning → Power Query modeling → Power BI dashboards.
-- 🛍️ [Vrinda Store Sales Analysis](https://github.com/Abdalrhmanmalek/Vrinda-store-) — Sales analysis and insights.
-- 🏪 [Fathallah Market 2025](https://github.com/Abdalrhmanmalek/-Fathallah-Market) — Retail sales analysis.
+- [Mine and Rock Sonar Prediction](https://github.com/Abdalrhmanmalek/sonar-signal) — Scikit-learn classifier for sonar signal detection; feature engineering with Pandas/NumPy; **88% F1-score**.
+- Hand Gesture Control System — Real-time gesture recognition with OpenCV at **95% accuracy**, with optimized feature extraction and tracking.
+- [Diabetics Prediction](https://github.com/Abdalrhmanmalek/Diabetics-prediction) — ML model predicting diabetes risk from patient data.
+- [Bike Store Analysis](https://github.com/Abdalrhmanmalek/Bike-store-) — MySQL database → data cleaning → Power Query modeling → Power BI dashboards.
+- [Vrinda Store Sales Analysis](https://github.com/Abdalrhmanmalek/Vrinda-store-) — Sales analysis and insights.
+- [Fathallah Market 2025](https://github.com/Abdalrhmanmalek/-Fathallah-Market) — Retail sales analysis.
 
 ---
 
-### ⚡ Skills
+### Skills
 
-                                            **Machine Learning & AI**
+<div align="center">
+
+**Machine Learning & AI**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
@@ -58,7 +61,8 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 ![RAG](https://img.shields.io/badge/RAG-333333?style=for-the-badge)
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-333333?style=for-the-badge)
 
-                                                **Cloud & MLOps**
+**Cloud & MLOps**
+
 ![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![S3](https://img.shields.io/badge/S3-333333?style=for-the-badge&logo=amazons3&logoColor=569A31)
@@ -69,7 +73,8 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
 ![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-                                                  **Data Analysis**
+**Data Analysis**
+
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Power BI](https://img.shields.io/badge/Power_BI-333333?style=for-the-badge&logo=powerbi&logoColor=F2C811)
@@ -78,20 +83,24 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 ![Excel](https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![ETL](https://img.shields.io/badge/ETL-333333?style=for-the-badge)
 
-                                                    **Programming**
+**Programming**
+
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![R](https://img.shields.io/badge/R-333333?style=for-the-badge&logo=r&logoColor=276DC3)
 ![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-                                                        **Tools**
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git_&_GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=for-the-badge&logo=mathworks&logoColor=0076A8)
 
+</div>
+
 ---
 
-### 📜 Certifications & Training
+### Certifications & Training
 
 - AI Microsoft Hackathon Champion — Alexandria University (Mar 2026)
 - Exploring SAP Analytics Cloud (May 2026)
@@ -103,7 +112,7 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdalrhmanmalek)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdalrhmanmalek.lovable.app)
