@@ -49,32 +49,40 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 
 ### ⚡ Skills
 
-**Programming**
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![R](https://img.shields.io/badge/R-333333?style=for-the-badge&logo=r&logoColor=276DC3)
-![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
 **Machine Learning & AI**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
-*CNN · LSTM · RAG · Transfer Learning*
+![CNN](https://img.shields.io/badge/CNN-333333?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-333333?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-333333?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-333333?style=for-the-badge)
 
 **Cloud & MLOps**
 ![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-*S3 · ECR · Lambda · SNS · SQS · DynamoDB · AWS IoT Core*
+![S3](https://img.shields.io/badge/S3-333333?style=for-the-badge&logo=amazons3&logoColor=569A31)
+![ECR](https://img.shields.io/badge/ECR-333333?style=for-the-badge&logo=amazonecs&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-333333?style=for-the-badge&logo=awslambda&logoColor=FF9900)
+![SNS](https://img.shields.io/badge/SNS-333333?style=for-the-badge)
+![SQS](https://img.shields.io/badge/SQS-333333?style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
+![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 **Data Analysis**
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Power BI](https://img.shields.io/badge/Power_BI-333333?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Tableau](https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=tableau&logoColor=E97627)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![ETL](https://img.shields.io/badge/ETL-333333?style=for-the-badge)
 
-*Matplotlib · Excel · ETL*
+**Programming**
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![R](https://img.shields.io/badge/R-333333?style=for-the-badge&logo=r&logoColor=276DC3)
+![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git_&_GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
@@ -97,6 +105,6 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalrhman-malek-993497215/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdalrhmanmalek)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdalrhmanmalek.lovable.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalrhman.abdalmalek.tech@gmail.com)
