@@ -49,7 +49,7 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 
 ### ⚡ Skills
 
-**Machine Learning & AI**
+                                            **Machine Learning & AI**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
@@ -58,7 +58,7 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 ![RAG](https://img.shields.io/badge/RAG-333333?style=for-the-badge)
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-333333?style=for-the-badge)
 
-**Cloud & MLOps**
+                                                **Cloud & MLOps**
 ![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![S3](https://img.shields.io/badge/S3-333333?style=for-the-badge&logo=amazons3&logoColor=569A31)
@@ -69,7 +69,7 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
 ![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-**Data Analysis**
+                                                  **Data Analysis**
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Power BI](https://img.shields.io/badge/Power_BI-333333?style=for-the-badge&logo=powerbi&logoColor=F2C811)
@@ -78,13 +78,13 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 ![Excel](https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![ETL](https://img.shields.io/badge/ETL-333333?style=for-the-badge)
 
-**Programming**
+                                                    **Programming**
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![R](https://img.shields.io/badge/R-333333?style=for-the-badge&logo=r&logoColor=276DC3)
 ![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-**Tools**
+                                                        **Tools**
 ![Git](https://img.shields.io/badge/Git_&_GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=for-the-badge&logo=mathworks&logoColor=0076A8)
