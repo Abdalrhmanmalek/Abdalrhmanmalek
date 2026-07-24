@@ -13,37 +13,14 @@ Junior AI & Machine Learning Engineer with hands-on experience building end-to-e
 
 ---
 
-### Featured: Enviro Smart — IoT & AI System (Graduation Project)
+### What I Bring to the Table
 
-Role: AI & Cloud Architect / IoT / Team Leader
-
-An end-to-end IoT system bridging physical hardware with deep learning on the cloud, automating real-time environmental monitoring with generative AI for context-aware analysis.
-
-- **Adaptive Irrigation Modelling:** IoT sensors + LSTM + real-time weather data using VPD equations, cutting water consumption by **37%** vs. traditional irrigation.
-- **Plant Health Classification:** Transfer learning (MobileNetV2) CNN classifying 50 plant health categories at **90% accuracy**.
-- **Generative AI & RAG Pipeline:** Real-time sensor/vision data feeding a RAG system for an interpretable plant health dashboard.
-- **IoT & Cloud Integration:** Sensors + microcontrollers → AWS IoT Core, with Lambda, ECR, S3, DynamoDB, SQS via Docker for production-ready deployment.
-
----
-
-### Experience
-
-**NTI Freelancer Data Analysis — Creativa** (Aug 2025)
-End-to-end data analysis workflow with SQL, Python, R — built Power BI dashboards that surfaced 12% revenue leakage, plus Power Query/Excel BI reporting across multiple markets.
-
-**Summer Internship — Prometon** (Aug 2024)
-Applied computer vision and ML for quality control and safety monitoring; built reporting on manufacturing output from production databases.
-
----
-
-### Projects
-
-- [Mine and Rock Sonar Prediction](https://github.com/Abdalrhmanmalek/sonar-signal) — Scikit-learn classifier for sonar signal detection; feature engineering with Pandas/NumPy; **88% F1-score**.
-- Hand Gesture Control System — Real-time gesture recognition with OpenCV at **95% accuracy**, with optimized feature extraction and tracking.
-- [Diabetics Prediction](https://github.com/Abdalrhmanmalek/Diabetics-prediction) — ML model predicting diabetes risk from patient data.
-- [Bike Store Analysis](https://github.com/Abdalrhmanmalek/Bike-store-) — MySQL database → data cleaning → Power Query modeling → Power BI dashboards.
-- [Vrinda Store Sales Analysis](https://github.com/Abdalrhmanmalek/Vrinda-store-) — Sales analysis and insights.
-- [Fathallah Market 2025](https://github.com/Abdalrhmanmalek/-Fathallah-Market) — Retail sales analysis.
+- **End-to-End AI Systems:** I design and build complete AI pipelines — from IoT sensor data and computer vision inputs through deep learning models (CNN, LSTM) to real-time, actionable outputs.
+- **Cloud-Native ML Deployment:** I deploy models and services on AWS (Lambda, ECR, S3, DynamoDB, SQS, IoT Core) using Docker, so systems run reliably from prototype to production.
+- **Generative AI & RAG:** I connect sensor and model outputs to RAG pipelines to turn raw data into interpretable, context-aware insights.
+- **Data-Driven Decision Making:** With SQL, Python, R, and Power BI, I turn messy business data into dashboards and analysis that surface real issues — like revenue leakage — not just numbers.
+- **Business-Aligned Engineering:** My MIS background means I don't just optimize for model accuracy; I think about ROI, stakeholders, and how a system fits into a real workflow.
+- **Team Leadership:** I've led cross-functional teams (AI, cloud, IoT) from architecture through delivery, translating technical work into results others can act on.
 
 ---
 
@@ -114,6 +91,6 @@ Applied computer vision and ML for quality control and safety monitoring; built 
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdalrhman-malek-993497215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdalrhmanmalek)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdalrhmanmalek.lovable.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalrhman.abdalmalek.tech@gmail.com)
